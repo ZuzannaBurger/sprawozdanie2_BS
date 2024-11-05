@@ -10,7 +10,7 @@ Program przeszukuje całe sekwencje w celu znalezienia najlepszego globalnego do
 
 ## Formatowanie wejścia <br>
 
-Program wymaga, aby dane wejściowe znajdowały się w plikach formatu FASTA. Każdy plik <br> (`seq1.fasta` oraz `seq2.fasta`) powinien zawierać jedną sekwencję poprzedzoną <br> linią nagłówkową rozpoczynającą się znakiem `>`. Dodatkowo pliki te muszą <br> znajdować się w tym samym katalogu, co skrypt (main.py). <br>
+Program wymaga, aby dane wejściowe znajdowały się w plikach formatu FASTA. Każdy plik <br> (`seq1.fasta` oraz `seq2.fasta`) powinien zawierać jedną sekwencję poprzedzoną <br> linią nagłówkową rozpoczynającą się znakiem `>`. Dodatkowo pliki te muszą <br> znajdować się w tym samym katalogu, co skrypt (main.py). <br> <br>
 ![image](https://github.com/user-attachments/assets/f1ad2642-3a52-4c5d-b2a7-f939ad3f5440)
 
 
