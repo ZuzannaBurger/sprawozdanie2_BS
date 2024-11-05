@@ -10,8 +10,31 @@ Program przeszukuje całe sekwencje w celu znalezienia najlepszego globalnego do
 
 ## Formatowanie wejścia <br>
 
-Program wymaga, aby dane wejściowe znajdowały się w plikach formatu FASTA. Każdy plik <br> (`seq1.fasta` oraz `seq2.fasta`) powinien zawierać jedną sekwencję poprzedzoną <br> linią nagłówkową rozpoczynającą się znakiem `>`. Dodatkowo pliki te muszą <br> znajdować się w tym samym katalogu, co skrypt (main.py). <br> <br>
-![image](https://github.com/user-attachments/assets/f1ad2642-3a52-4c5d-b2a7-f939ad3f5440)
+Program wymaga, aby dane wejściowe znajdowały się w plikach formatu FASTA. Każdy plik <br> (`seq1.fasta` oraz `seq2.fasta`) powinien zawierać jedną sekwencję poprzedzoną <br> linią nagłówkową rozpoczynającą się znakiem `>`. Dodatkowo pliki te muszą <br> znajdować się w tym samym katalogu, co skrypt (main.py). <br> 
+
+##Wyjście <br>
+
+Plik wyjściowy alignment_results.txt zawiera wynik dopasowania dwóch sekwencji po <br> zastosowaniu algorytmu Needleman-Wunscha. Jest on zapisany w formacie tekstowym i <br> składa się z trzech części: <br>
+1. Nagłówek – Zawiera tytuł Alignment Results. <br>
+2. Dopasowane sekwencje – Wyświetlone są dwie sekwencje (Seq1 i Seq2), wyrównane <br> względem siebie za pomocą znaków luki (-), aby wizualizować, gdzie występują <br> dopasowania, niedopasowania oraz wstawki (luki). <br>
+3. Wynik dopasowania – Podany jest końcowy wynik dopasowania, czyli punktacja uzyskana <br> na podstawie podanych wartości match, mismatch i gap. <br>
+
+##Przykład uruchomienia <br>
+
+Po uruchomieniu programu przykładowy przebieg interakcji z uzytkownikiem wygląda tak: <br> <br>
+![image](https://github.com/user-attachments/assets/f271c743-a47b-4d91-8e83-4701fec0841b) <br> <br>
+
+Oczekiwane wyjście (w konsoli): <br> <br>
+![image](https://github.com/user-attachments/assets/7e236b61-8723-4ecd-ad07-7406423f2284) <br> <br>
+
+Przykład pliku alignment_results.txt <br> <br>
+![image](https://github.com/user-attachments/assets/6f033342-2dd7-4d2b-b7a5-66ac45c7b395)
+
+
+
+
+
+
 
 
 
