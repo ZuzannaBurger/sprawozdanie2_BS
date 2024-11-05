@@ -1,0 +1,4 @@
+Alignment Results
+Seq1: GACTAACCTAGT
+Seq2: GACTAACC-ACT
+Alignment score: 17
