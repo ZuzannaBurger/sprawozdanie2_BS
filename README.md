@@ -10,7 +10,7 @@ Program przeszukuje całe sekwencje w celu znalezienia najlepszego globalnego do
 
 ## Formatowanie wejścia <br>
 
-Program wymaga, aby dane wejściowe znajdowały się w plikach formatu FASTA. Każdy plik <br> (`seq1.fasta` oraz `seq2.fasta`) powinien zawierać jedną sekwencję poprzedzoną <br> linią nagłówkową rozpoczynającą się znakiem `>`. Program prosi aby użytkownik podał ścieżki <br> do plików w formacie FASTA. Upewnij się, że pliki są w prawidłowym formacie FASTA. <br>
+Program wymaga, aby dane wejściowe znajdowały się w plikach formatu FASTA. Każdy plik <br> powinien zawierać jedną sekwencję poprzedzoną <br> linią nagłówkową rozpoczynającą się znakiem `>`. Program prosi aby użytkownik podał ścieżki <br> do plików w formacie FASTA. Upewnij się, że pliki są w prawidłowym formacie FASTA. <br>
 
 ## Wyjście <br>
 
