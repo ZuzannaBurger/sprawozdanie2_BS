@@ -26,8 +26,14 @@ Komenda w przypadku niezainstalowanej biblioteki: pip install biopython <br>
 
 ## Przykład uruchomienia <br>
 
-Po uruchomieniu programu przykładowy przebieg interakcji z uzytkownikiem wygląda tak: <br> <br>
-![image](https://github.com/user-attachments/assets/f271c743-a47b-4d91-8e83-4701fec0841b) <br> <br>
+Po uruchomieniu programu przykładowy przebieg interakcji z uzytkownikiem wygląda tak:<br> 
+Podajemy ścieżki do plików z sekwencjami <br> <br>
+![image](https://github.com/user-attachments/assets/fec02438-52fe-4f6a-b9fb-464c390d87d5) <br> <br> <br>
+
+Następnie podajemy wartości dopasowania, niedopasowania i gap <br> <br>
+
+![image](https://github.com/user-attachments/assets/9adce661-43b6-4ed2-8abf-17b6acb44cd8)
+ <br> <br>
 
 Oczekiwane wyjście (w konsoli): <br> <br>
 ![image](https://github.com/user-attachments/assets/7e236b61-8723-4ecd-ad07-7406423f2284) <br> <br>
