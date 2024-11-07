@@ -47,11 +47,12 @@ def needleman_Wunsch(match, mismatch, gap, seq1, seq2):
     return align1, align2, matrix[x][y]
 
 
-file1 = "seq1.fasta"
-file2 = "seq2.fasta"
+file1 = input("Enter the path to the first FASTA file: ")
+file2 = input("Enter the path to the second FASTA file: ")
 
 seq1 = read_sequence(file1)
 seq2 = read_sequence(file2)
+
 
 while 1==1:
     try:
