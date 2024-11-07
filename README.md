@@ -10,7 +10,7 @@ Program przeszukuje całe sekwencje w celu znalezienia najlepszego globalnego do
 
 ## Formatowanie wejścia <br>
 
-Program wymaga, aby dane wejściowe znajdowały się w plikach formatu FASTA. Każdy plik <br> powinien zawierać jedną sekwencję poprzedzoną <br> linią nagłówkową rozpoczynającą się znakiem `>`. Program prosi aby użytkownik podał ścieżki <br> do plików w formacie FASTA. Upewnij się, że pliki są w prawidłowym formacie FASTA. <br>
+Program wymaga, aby dane wejściowe znajdowały się w plikach formatu FASTA. Każdy plik <br> powinien zawierać jedną sekwencję poprzedzoną linią nagłówkową rozpoczynającą się znakiem `>`. Program <br> prosi aby użytkownik podał ścieżki do plików w formacie FASTA. Upewnij się, że pliki są w <br> prawidłowym formacie FASTA. <br>
 
 ## Wyjście <br>
 
