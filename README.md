@@ -19,6 +19,11 @@ Plik wyjściowy alignment_results.txt zawiera wynik dopasowania dwóch sekwencji
 2. Dopasowane sekwencje – Wyświetlone są dwie sekwencje (Seq1 i Seq2), wyrównane <br> względem siebie za pomocą znaków luki (-), aby wizualizować, gdzie występują <br> dopasowania, niedopasowania oraz wstawki (luki). <br>
 3. Wynik dopasowania – Podany jest końcowy wynik dopasowania, czyli punktacja uzyskana <br> na podstawie podanych wartości match, mismatch i gap. <br>
 
+##Przed urochomieniem <br>
+Przed uruchomieniem programu należy się upewnić czy jest zainstalowana bibloteka <br>
+Bipython gdyż jest ona niezbędna do urochomienia programu. <br>
+Komenda w przypadku niezainstalowanej biblioteki: pip install biopython <br>
+
 ## Przykład uruchomienia <br>
 
 Po uruchomieniu programu przykładowy przebieg interakcji z uzytkownikiem wygląda tak: <br> <br>
